@@ -13,11 +13,7 @@ main(){
 
 	b = times(n, a);
 
-<<<<<<< HEAD
-	printf("Output Number: ");
-=======
 	printf("Output number: ");
->>>>>>> issue3
 
 	for (j=0; j<n; j++){
 		printf("%d ", *(b+j));
